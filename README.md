@@ -5,13 +5,25 @@ indirdiğiniz dosyayı rar'dan çıkardıktan sonra 'inc/' klasörü içerisinde
 dosyasında bulunan bilgileri istenildiği gibi dolduruyoruz.Son olarak 'veriTabanı.sql' dosyamızı veritabanımıza okutuyoruz.
 ```
 
+### Yapılacaklar
+
+	=> Yönetim tek sayfa üzerinden olacak.(sil ve tamamlandı.php Login.php'e Eklenecek.)
+	=> Mt2 TamamlananlarıListele.php'da login.php'ye eklenecek.
+	=> Profil sayfası eklenecek şifre/email/kurtarmaparolası değiştirme	(profil.php)
+
+
 # Change Log
 
-## [YAKINDA][1.3] 25.10.2020
+## [YAKINDA][v2] 1.11.2020
 - <b>YENİ:</b> Giriş Sistemi
-- <b>YENİ:</b> Mt2 Changelog düzenleme ve yeni sürüm ekleme vb.
+- <b>YENİ:</b> Md5 şifreleme ile güvenlik güçlendirildi.
+- <b>YENI:</b> Tema göz yormayacak şekilde yenilendi.
 
-## [1.2] 25.10.2020
+- <b>GÜNCELLEME:</b> Düzenle.php -> login.php ye dahil edildi.
+
+- <b>DÜZELTME</b> Tamamlananlar'da Profilinin çalışmamasına neden olan hata düzeltildi.
+
+## [v1.2] 23.10.2020
 - <b>YENİ:</b> Görevi tamamlama özelliği getirildi.
 - <b>YENİ:</b> İconlar Eklendi.
 - <b>YENİ:</b> Navbar Eklendi.
@@ -19,7 +31,7 @@ dosyasında bulunan bilgileri istenildiği gibi dolduruyoruz.Son olarak 'veriTab
 
 - <b>DÜZELTME</b> Veritabanı tanımları düzeltildi.
 
-## [1.1] 25.10.2020
+## [v1.1]
 - <b>YENİ:</b> Silmeden önce artık uyarı verecek.
 - <b>YENİ:</b> Hataların önemlilik durumları eklendi.
 - <b>YENİ:</b> Hatayı ekleyen kullanıcı kısmı eklendi.
