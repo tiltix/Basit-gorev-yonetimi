@@ -10,9 +10,7 @@ dosyasında bulunan bilgileri istenildiği gibi dolduruyoruz.Son olarak 'veriTab
 	=> Yönetim tek sayfa üzerinden olacak.(sil ve tamamlandı.php Login.php'e Eklenecek.)
 	=> Mt2 TamamlananlarıListele.php'da login.php'ye eklenecek.
 	=> Profil sayfası eklenecek şifre/email/kurtarmaparolası değiştirme	(profil.php)
-![](https://hizliresim.com/AN0e4U)
-![](https://hizliresim.com/7K5IrU)
-![](https://hizliresim.com/nRflE0)
+![](https://raw.githubusercontent.com/tiltix/Basit-gorev-yonetimi/main/img/hareket.gif)
 # Change Log
 
 ## [YAKINDA][v2] 1.11.2020
